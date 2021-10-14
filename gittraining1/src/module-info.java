@@ -1,0 +1,2 @@
+module gittraining1 {
+}
